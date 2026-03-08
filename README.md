@@ -5,4 +5,4 @@ ESP32 project that transmits Morse code **SOS (... --- ...)** using the onboard 
 ## Documentation
 Functional Specification Document:
 
-docs/esp32-sos-blinker-fsd.md
+docs/fsd.md
